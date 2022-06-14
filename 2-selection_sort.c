@@ -1,4 +1,4 @@
-include"sort.h"
+#include "sort.h"
 void swap(int *xp, int *yp);
 /**
  * swap - function that swapto number.
